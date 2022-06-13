@@ -19,7 +19,7 @@
 
 <!-- Section 1 -->
 <div>
-    <h3 align="center">Tech Stack</h3>
+    <h2 align="center">Tech Stack</h2>
     <table align="center">
         <tr>
             <td>Frontend</td>
@@ -71,7 +71,7 @@
 
 <!-- Stats Overview -->
 <div align="center">
-    <h3 align="center">Github Statistics</h3>
+    <h2 align="center">Github Statistics</h2>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=rangyia&show_icons=true&theme=dracula" >
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangyia&show_icons=true&theme=dracula&hide=HTML,GLSL,CSS,SASS" >
