@@ -1,6 +1,6 @@
 <!-- Profile Overview -->
 <div align="center">
-    <img src="https://github.com/rangyia/profile/blob/main/img/img-cover-01.jpg" />
+    <img src="https://github.com/rangyia/rangyia/blob/main/img/img-cover-01.jpg" />
 </div>
 
 <!-- Badges -->
