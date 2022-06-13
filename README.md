@@ -72,14 +72,9 @@
 <!-- Stats Overview -->
 <div align="center">
     <h3 align="center">Github Statistics</h3>
-    <p>
+    <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=rangyia&show_icons=true&theme=dracula" >
+        <img src="[https://github-readme-stats.vercel.app/api?username=rangyia&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=rangyia&show_icons=true&theme=dracula&hide=HTML,GLSL,CSS,SASS)" >
+        <img src="https://activity-graph.herokuapp.com/graph?username=rangyia&theme=dracula">
     </p>
 </div>
-
-[![Rangyia's GitHub stats](https://github-readme-stats.vercel.app/api?username=rangyia&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rangyia&show_icons=true&theme=dracula&hide=HTML,GLSL,CSS,SASS)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align = "center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=rangyia&theme=dracula">
-</p> 
-
