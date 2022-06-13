@@ -5,7 +5,7 @@
 
 <!-- Badges -->
 <div align="center">
-    <img src="https://badges.pufler.dev/visits/rangyia/profile"/> 
+    <img src="https://badges.pufler.dev/visits/rangyia/Rangyia"/> 
     <img src="https://badges.pufler.dev/repos/rangyia"/>
     <img src="https://badges.pufler.dev/commits/monthly/rangyia" />
 </div>
