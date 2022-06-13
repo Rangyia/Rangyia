@@ -74,7 +74,7 @@
     <h3 align="center">Github Statistics</h3>
     <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=rangyia&show_icons=true&theme=dracula" >
-        <img src="[https://github-readme-stats.vercel.app/api?username=rangyia&show_icons=true&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=rangyia&show_icons=true&theme=dracula&hide=HTML,GLSL,CSS,SASS)" >
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rangyia&show_icons=true&theme=dracula&hide=HTML,GLSL,CSS,SASS" >
         <img src="https://activity-graph.herokuapp.com/graph?username=rangyia&theme=dracula">
     </p>
 </div>
